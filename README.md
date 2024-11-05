@@ -6,5 +6,5 @@
 
 # 사용 라이브러리
 
-- script.js
+- swiper.js
 - xeicon
